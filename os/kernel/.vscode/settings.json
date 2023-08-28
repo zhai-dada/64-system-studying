@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "interrupt.h": "c",
+        "gate.h": "c",
+        "sched.h": "c",
+        "schedule.h": "c",
+        "lib.h": "c",
+        "keyboard.h": "c",
+        "cpu.h": "c",
+        "printk.h": "c",
+        "task.h": "c",
+        "spinlock.h": "c",
+        "preempt.h": "c",
+        "memory.h": "c",
+        "apic.h": "c",
+        "semaphore.h": "c",
+        "linkage.h": "c",
+        "hpet.h": "c",
+        "vfs.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "smp.h": "c",
+        "ptrace.h": "c",
+        "softirq.h": "c"
+    }
+}
